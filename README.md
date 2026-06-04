@@ -788,3 +788,24 @@ Urban OS, Civilization OS, circular city, regenerative city, nature-integrated i
 ## Hashtags
 
 #UrbanOS #CivilizationOS #CircularCity #RegenerativeCity #NatureIntegratedInfrastructure #NaturalLaw #CircularCivilization #WaterReuse #RainwaterHarvesting #Desalination #BrineValorization #BrineMining #SeawaterRefining #BuildingIntegratedPhotovoltaics #PerovskiteSolarCells #MicroHydropower #VerticalAxisWindTurbine #UrbanHeatIsland #GreenBlueInfrastructure #VerticalFarming #Composting #DistributedEnergy #ResilientInfrastructure #EcologicalRestoration #ClimateAdaptation
+
+リンク
+
+都市・文明OSとは何か  
+https://note.com/inchacomusho/n/ne7ebce3dcf78
+
+都市・文明OS  
+https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md
+
+Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated  
+https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities
+
+自然・微生物OSとは何か  
+https://note.com/inchacomusho/n/n0f08276bd638
+
+自然・微生物OS  
+https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md
+
+Natural–Microbial OS  
+https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md
+
