@@ -948,7 +948,8 @@ https://note.com/inchacomusho/n/ne7ebce3dcf78
 都市・文明OS  
 https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md
 
-Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated   Citieshttps://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities
+Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated  
+https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities
 
 自然・微生物OSとは何か  
 https://note.com/inchacomusho/n/n0f08276bd638
@@ -958,5 +959,3 @@ https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md
 
 Natural–Microbial OS  
 https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md
-
-
