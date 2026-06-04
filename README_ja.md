@@ -936,7 +936,27 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 #都市OS #文明OS #循環型都市 #再生型都市 #自然統合型インフラ #自然法則 #循環文明 #水再利用 #雨水回収 #海水淡水化 #ブライン資源化 #ブラインマイニング #海水精錬 #建材一体型太陽光発電 #ペロブスカイト太陽電池 #小型水力 #垂直軸風力 #都市ヒートアイランド #グリーンブルーインフラ #垂直農法 #堆肥化 #分散型エネルギー #レジリエントインフラ #生態系回復 #気候適応
 
-```
-```
+
 
 [1]: https://raw.githubusercontent.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/main/README.md "raw.githubusercontent.com"
+
+リンク
+
+都市・文明OSとは何か  
+https://note.com/inchacomusho/n/ne7ebce3dcf78
+
+都市・文明OS  
+https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md
+
+Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated   Citieshttps://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities
+
+自然・微生物OSとは何か  
+https://note.com/inchacomusho/n/n0f08276bd638
+
+自然・微生物OS  
+https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md
+
+Natural–Microbial OS  
+https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md
+
+
