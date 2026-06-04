@@ -855,51 +855,51 @@
 ## 技術参考文献
 
 1. National Renewable Energy Laboratory / National Laboratory of the Rockies.
-   “Best Research-Cell Efficiency Chart.”
+   “Best Research-Cell Efficiency Chart.”  
    [https://www.nrel.gov/PV/cell-efficiency](https://www.nrel.gov/PV/cell-efficiency)
 
 2. National Renewable Energy Laboratory.
-   “Popular NREL Cell Efficiency Chart Now Better Presents Tandem Photovoltaics.”
+   “Popular NREL Cell Efficiency Chart Now Better Presents Tandem Photovoltaics.”  
    [https://www.nrel.gov/grid/news/program/2024/popular-nrel-cell-efficiency-chart-now-better-presents-tandem-photovoltaics](https://www.nrel.gov/grid/news/program/2024/popular-nrel-cell-efficiency-chart-now-better-presents-tandem-photovoltaics)
 
 3. Reuters.
-   “Qcells says technology breakthrough could reduce space needed for solar panels.” 2024.
+   “Qcells says technology breakthrough could reduce space needed for solar panels.” 2024.  
    [https://www.reuters.com/business/energy/qcells-says-technology-breakthrough-could-reduce-space-needed-solar-panels-2024-12-18/](https://www.reuters.com/business/energy/qcells-says-technology-breakthrough-could-reduce-space-needed-solar-panels-2024-12-18/)
 
 4. International Energy Agency.
-   “Wired for water: How electrification is transforming desalination.” 2026.
+   “Wired for water: How electrification is transforming desalination.” 2026.  
    [https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination](https://www.iea.org/commentaries/wired-for-water-how-electrification-is-transforming-desalination)
 
 5. Bideris-Davos, A. A., & Vovos, P. N.
-   “Comprehensive Review for Energy Recovery Technologies Used in Water Distribution Systems Considering Their Performance, Technical Challenges, and Economic Viability.” *Water*, 2024.
+   “Comprehensive Review for Energy Recovery Technologies Used in Water Distribution Systems Considering Their Performance, Technical Challenges, and Economic Viability.” *Water*, 2024.  
    [https://www.mdpi.com/2073-4441/16/15/2129](https://www.mdpi.com/2073-4441/16/15/2129)
 
 6. Lee, J., & Lee, S.
-   “Challenges, opportunities, and technological advances in desalination brine mining: a mini review.” *Advances in Industrial and Engineering Chemistry*, 2025.
+   “Challenges, opportunities, and technological advances in desalination brine mining: a mini review.” *Advances in Industrial and Engineering Chemistry*, 2025.  
    [https://link.springer.com/article/10.1007/s44405-025-00007-y](https://link.springer.com/article/10.1007/s44405-025-00007-y)
 
 7. Ihsanullah, I. et al.
-   “Waste to wealth: A critical analysis of resource recovery from desalination brine.” *Desalination*, 2022.
+   “Waste to wealth: A critical analysis of resource recovery from desalination brine.” *Desalination*, 2022.  
    [https://www.sciencedirect.com/science/article/abs/pii/S0011916422005483](https://www.sciencedirect.com/science/article/abs/pii/S0011916422005483)
 
 8. European Commission.
-   “Water Reuse.”
+   “Water Reuse.”  
    [https://environment.ec.europa.eu/topics/water/water-reuse_en](https://environment.ec.europa.eu/topics/water/water-reuse_en)
 
 9. World Health Organization.
-   “Guidelines for the safe use of wastewater, excreta and greywater.”
+   “Guidelines for the safe use of wastewater, excreta and greywater.”  
    [https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/sanitation-safety/guidelines-for-safe-use-of-wastewater-greywater-and-excreta](https://www.who.int/teams/environment-climate-change-and-health/water-sanitation-and-health/sanitation-safety/guidelines-for-safe-use-of-wastewater-greywater-and-excreta)
 
 10. Kumar, P. et al.
-    “Urban heat mitigation by green and blue infrastructure.” *City and Environment Interactions*, 2024.
+    “Urban heat mitigation by green and blue infrastructure.” *City and Environment Interactions*, 2024.  
     [https://www.sciencedirect.com/science/article/pii/S2666675824000262](https://www.sciencedirect.com/science/article/pii/S2666675824000262)
 
 11. Anup, K. C. et al.
-    “Urban wind conditions and small wind turbines in the built environment: A review.” *Renewable Energy*, 2019.
+    “Urban wind conditions and small wind turbines in the built environment: A review.” *Renewable Energy*, 2019.  
     [https://www.sciencedirect.com/science/article/abs/pii/S0960148118308474](https://www.sciencedirect.com/science/article/abs/pii/S0960148118308474)
 
 12. Al-Ghriybah, M. et al.
-    “Vertical-Axis Wind Turbines for Extreme Environments.” *Inventions*, 2026.
+    “Vertical-Axis Wind Turbines for Extreme Environments.” *Inventions*, 2026.  
     [https://www.mdpi.com/2411-5134/11/2/25](https://www.mdpi.com/2411-5134/11/2/25)
 
 ---
