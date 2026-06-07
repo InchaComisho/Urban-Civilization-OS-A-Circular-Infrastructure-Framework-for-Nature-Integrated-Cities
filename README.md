@@ -774,6 +774,15 @@ The missing element is the viewpoint that civilization itself must be designed a
 
 **June 3, 2026**
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## Related Framework
