@@ -853,6 +853,14 @@ This repository is part of the broader Natural Supplementation Science and Earth
 - [Planetary Heat and Circulation OS — Japanese README](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
+### Circular City Concept
+
+The Circular City Concept is a retrofit-oriented implementation model closely related to Urban–Civilization OS. It focuses on gradually transforming existing cities through water circulation, reclaimed water, rainwater harvesting, distributed energy, urban cooling, and organic-matter circulation.
+
+- [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [Japanese README: 循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [Original NOTE article: 循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
+
 ---
 
 ## Related Early Concept Articles

@@ -1006,6 +1006,14 @@
 * [惑星熱・循環OS（日本語版README）](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 * [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
+### مفهوم المدينة الدائرية / Circular City Concept
+
+يرتبط مفهوم المدينة الدائرية بنظام المدينة والحضارة OS بوصفه نموذجاً تطبيقياً لإعادة تأهيل المدن القائمة عبر دورة المياه، والمياه المعاد تدويرها، واستخدام مياه الأمطار، والطاقة الموزعة، وتبريد المدن، وتدوير المادة العضوية.
+
+- [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [日本語版 README：循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
+
 ---
 
 ## مقالات NOTE مفاهيمية ذات صلة

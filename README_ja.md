@@ -1001,6 +1001,14 @@
 - [惑星熱・循環OS（日本語版README）](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
+### 循環都市構想
+
+循環都市構想は、都市・文明OSの実装側に近いレトロフィット都市モデルであり、既存都市を水循環・再生水・雨水利用・分散型発電・都市冷却・有機物循環へ段階的に改修する構想である。
+
+- [循環都市構想（日本語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [Circular City Concept（英語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
+
 ---
 
 ## 関連する初期構想NOTE記事
