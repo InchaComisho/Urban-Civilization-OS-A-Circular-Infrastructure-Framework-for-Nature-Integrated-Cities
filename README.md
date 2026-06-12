@@ -855,6 +855,21 @@ This repository is part of the broader Natural Supplementation Science and Earth
 
 ---
 
+## Related Early Concept Articles
+
+The following NOTE articles are early Japanese concept sources related to artificial freshwater lakes, rural regeneration, circular infrastructure, desert greening, and food production. They are included as origin materials for the broader Urban–Civilization OS framework, not as peer-reviewed evidence.
+
+- [Proposal for using abandoned villages and depopulated rural areas: creating large artificial freshwater lakes and freshwater aquaculture systems](https://note.com/inchacomusho/n/n5c572fe1695f)
+- [Initial concept: desert greening, food production, population growth, refugee issues, and new habitable environments](https://note.com/inchacomusho/n/n0ce549cb6fa3)
+
+---
+
+## Related Framework: Desert Regeneration
+
+- [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation/blob/main/README.md)
+
+---
+
 ## License
 
 **CC BY-SA 4.0**  

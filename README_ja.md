@@ -1003,6 +1003,22 @@
 
 ---
 
+## 関連する初期構想NOTE記事
+
+以下の記事は、人工淡水湖、過疎地再生、廃村活用、淡水養殖、循環型インフラ、砂漠緑化、食料生産構想に関わる初期の日本語NOTE記事である。  
+これらは査読済み科学論文ではなく、都市・文明OSの周辺構想および源流資料として位置づける。
+
+- [廃村や人口減少した過疎化地域の有効利用についての考察提案：廃村や人口減少した過疎化した地域を整地して巨大な人工淡水湖を作って淡水水産物の養殖](https://note.com/inchacomusho/n/n5c572fe1695f)
+- [砂漠の緑地化から食料問題、人口増加問題、難民問題、新たな人類の住める環境を作り出すなどさまざまな問題を少しのアイデアで解決可能](https://note.com/inchacomusho/n/n0ce549cb6fa3)
+
+---
+
+## 関連フレームワーク：砂漠再生
+
+- [砂漠再生と有機物循環による食料生産](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation/blob/main/README_ja.md)
+
+---
+
 ## ライセンス
 
 **CC BY-SA 4.0**
