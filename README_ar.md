@@ -8,9 +8,9 @@
 
 ## Language / 言語 / اللغة
 
-* [English](README.md)
-* [日本語](README_ja.md)
-* [العربية](README_ar.md)
+- [English](README.md)
+- [日本語](README_ja.md)
+- [العربية](README_ar.md)
 
 ---
 
@@ -21,8 +21,10 @@
 ويُعد نموذجاً لنظام OS حضري يهدف إلى إعادة دمج البنية التحتية للمدينة مع الدورات الطبيعية.
 
 * [Civilization OS Framework / 文明OS体系（統合ポータル）](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
-* [文明OS / Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
-* [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+* [Civilization OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+* [文明OS / Japanese](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+* [REIMEI Civilization OS / Next Civilization OS / English](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+* [次世代文明OS／黎明文明OS / Japanese](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
 
 ---
 
@@ -990,6 +992,7 @@
 * [都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 * [都市・文明OS（日本語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 * [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+* [Urban–Civilization OS — Arabic README](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 
 ### Natural–Microbial OS
 

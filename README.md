@@ -11,13 +11,23 @@ Urban–Civilization OS is a circular city design framework that integrates rene
 
 ---
 
+## Language / 言語 / اللغة
+
+- [English](README.md)
+- [日本語](README_ja.md)
+- [العربية](README_ar.md)
+
+---
+
 ## Position within the Civilization OS Framework
 
 This document is part of the **Civilization OS** and **REIMEI Civilization OS / Next Civilization OS** framework, which aims to redesign civilization in alignment with natural law, planetary circulation, and the age of AI.
 
-- [Civilization OS Framework (Integrated Portal)](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
-- [Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
-- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+- [Civilization OS Framework / 文明OS体系（統合ポータル）](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
+- [Civilization OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [文明OS / Japanese](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [REIMEI Civilization OS / Next Civilization OS / English](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+- [次世代文明OS／黎明文明OS / Japanese](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
 
 ---
 
@@ -829,6 +839,7 @@ This repository is part of the broader Natural Supplementation Science and Earth
 - [Japanese introductory article: 都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 - [Urban–Civilization OS — Japanese README](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 - [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [Urban–Civilization OS — Arabic README](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 
 ### Natural–Microbial OS
 
