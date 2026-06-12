@@ -796,6 +796,22 @@ This repository is part of the broader Natural Supplementation Science and Earth
 
 ---
 
+## Related GitHub Documents
+
+### Civilization OS and REIMEI Civilization OS
+
+- [Civilization OS / Japanese](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [Civilization OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [Next Civilization OS / REIMEI Civilization OS / Japanese](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+- [REIMEI Civilization OS / Next Civilization OS / English](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+### Sustainable Future Civilization Master Plans
+
+- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+
+---
+
 ## Related OS Frameworks
 
 ### Urban–Civilization OS
