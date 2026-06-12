@@ -5,6 +5,16 @@
 
 ---
 
+## 文明OS体系における位置づけ
+
+本ドキュメントは、**文明OS / Civilization OS** および **次世代文明OS／黎明文明OS** 体系の一部です。  
+都市インフラを自然循環と再統合するためのOSモデルとして位置づけられます。
+
+- [文明OS / Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+
+---
+
 ## 概要
 
 現代都市は、多くの場合、自然の外側にあるシステムとして設計されています。  

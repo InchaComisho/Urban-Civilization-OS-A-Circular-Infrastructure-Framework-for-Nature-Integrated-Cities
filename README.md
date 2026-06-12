@@ -11,6 +11,15 @@ Urban–Civilization OS is a circular city design framework that integrates rene
 
 ---
 
+## Position within the Civilization OS Framework
+
+This document is part of the **Civilization OS** and **REIMEI Civilization OS / Next Civilization OS** framework, which aims to redesign civilization in alignment with natural law, planetary circulation, and the age of AI.
+
+- [Civilization OS](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+---
+
 ## Abstract
 
 Modern cities are usually designed as systems outside nature: they import energy, water, food, and materials, then export heat, wastewater, waste, and ecological burden. This separation makes cities convenient, but also vulnerable to climate change, water scarcity, heat islands, power disruption, food insecurity, and biodiversity loss.
