@@ -1059,3 +1059,11 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 * [English version: REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
 
+
+
+---
+
+## مقترح مؤسسي ذو صلة: من أرصدة الكربون إلى أرصدة التبريد
+
+- [من أرصدة الكربون إلى أرصدة التبريد](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ar.md)  
+  مقترح مفاهيمي يعيد صياغة أرصدة الكربون القائمة على التعويض بوصفها محاسبة دفترية، ويعرّف أرصدة التبريد كإطار استثماري لخفض الحمل الحراري القابل للقياس والتبريد الكوكبي.
