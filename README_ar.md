@@ -1067,3 +1067,13 @@ Creative Commons Attribution-ShareAlike 4.0 International
 
 - [من أرصدة الكربون إلى أرصدة التبريد](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ar.md)  
   مقترح مفاهيمي يعيد صياغة أرصدة الكربون القائمة على التعويض بوصفها محاسبة دفترية، ويعرّف أرصدة التبريد كإطار استثماري لخفض الحمل الحراري القابل للقياس والتبريد الكوكبي.
+
+---
+
+## نماذج أعمال أرصدة التبريد ذات الصلة
+
+روابط عكسية إلى وثائق نماذج الأعمال في إطار أرصدة التبريد المرتبطة بنطاق هذا المستودع من حيث التنفيذ والتصميم المؤسسي.
+
+- [نموذج أرصدة التبريد للبنية الخضراء الحضرية](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL_ar.md)
+- [نموذج تحويل فاقد الطعام والنفايات العضوية إلى دبال ضمن أرصدة التبريد](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ar.md)
+- [نموذج أعمال مروحة الرذاذ فوق الصوتي المركزي](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL_ar.md)
