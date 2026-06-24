@@ -805,6 +805,9 @@ For the full repository map and knowledge-system navigation, see:
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
 ## Related Framework
 
 This repository is part of the broader Natural Supplementation Science and Earth-cycle regeneration framework.
