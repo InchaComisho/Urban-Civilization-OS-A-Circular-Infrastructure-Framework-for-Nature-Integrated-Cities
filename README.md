@@ -3,6 +3,8 @@
 **Subtitle:**  
 A practical design philosophy for retrofitting cities through integrated water, energy, food, heat, waste, and ecological circulation systems.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 **SEO description:**  
 Urban–Civilization OS is a circular city design framework that integrates renewable energy, water reuse, desalination, brine valorization, vertical farming, heat mitigation, composting, and ecological restoration into one infrastructure model for resilient, nature-integrated cities.
 
