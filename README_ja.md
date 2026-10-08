@@ -985,8 +985,6 @@
 - [地球直接冷却：地球本来の冷却カスケードを回復する自然補完型気候安定化体系](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   地球直接冷却を、雨・雲・風・海洋鉛直対流・土壌保水・植物・微生物・腐葉土・炭素固定という自然冷却カスケードの回復として定義する中核フレームワーク。
 
-- [NOTE記事：地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
 ---
 
 ## 関連GitHub文書 / Related GitHub Documents
@@ -1009,20 +1007,17 @@
 
 ### 都市・文明OS
 
-- [都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 - [都市・文明OS（日本語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 - [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
 - [Urban–Civilization OS（アラビア語版README）](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 
 ### 自然・微生物OS
 
-- [自然・微生物OSとは何か](https://note.com/inchacomusho/n/n0f08276bd638)
 - [自然・微生物OS（日本語版README）](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
 - [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
 
 ### 惑星熱・循環OS
 
-- [惑星熱・循環OSとは何か](https://note.com/inchacomusho/n/n9992ff391394)
 - [惑星熱・循環OS（日本語版README）](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
@@ -1032,7 +1027,6 @@
 
 - [循環都市構想（日本語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
 - [Circular City Concept（英語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
-- [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 ---
 
@@ -1040,9 +1034,6 @@
 
 以下の記事は、人工淡水湖、過疎地再生、廃村活用、淡水養殖、循環型インフラ、砂漠緑化、食料生産構想に関わる初期の日本語NOTE記事である。  
 これらは査読済み科学論文ではなく、都市・文明OSの周辺構想および源流資料として位置づける。
-
-- [廃村や人口減少した過疎化地域の有効利用についての考察提案：廃村や人口減少した過疎化した地域を整地して巨大な人工淡水湖を作って淡水水産物の養殖](https://note.com/inchacomusho/n/n5c572fe1695f)
-- [砂漠の緑地化から食料問題、人口増加問題、難民問題、新たな人類の住める環境を作り出すなどさまざまな問題を少しのアイデアで解決可能](https://note.com/inchacomusho/n/n0ce549cb6fa3)
 
 ---
 
@@ -1073,17 +1064,11 @@ Creative Commons Attribution 4.0 International
 
 リンク
 
-都市・文明OSとは何か  
-https://note.com/inchacomusho/n/ne7ebce3dcf78
-
 都市・文明OS  
 https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md
 
 Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated  
 https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities
-
-自然・微生物OSとは何か  
-https://note.com/inchacomusho/n/n0f08276bd638
 
 自然・微生物OS  
 https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md

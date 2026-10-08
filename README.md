@@ -837,8 +837,6 @@ This repository is part of the broader Natural Supplementation Science and Earth
 - [Direct Planetary Cooling: Restoring Earth's Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   The core framework defining Direct Planetary Cooling as the restoration of Earth's natural cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus formation, and carbon fixation.
 
-- [NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
 ---
 
 ## Related GitHub Documents
@@ -861,20 +859,17 @@ This repository is part of the broader Natural Supplementation Science and Earth
 
 ### Urban–Civilization OS
 
-- [Japanese introductory article: 都市・文明OSとは何か](https://note.com/inchacomusho/n/ne7ebce3dcf78)
 - [Urban–Civilization OS — Japanese README](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 - [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
 - [Urban–Civilization OS — Arabic README](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 
 ### Natural–Microbial OS
 
-- [Japanese introductory article: 自然・微生物OSとは何か](https://note.com/inchacomusho/n/n0f08276bd638)
 - [Natural–Microbial OS — Japanese README](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
 - [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
 
 ### Planetary Heat and Circulation OS
 
-- [Japanese introductory article: 惑星熱・循環OSとは何か](https://note.com/inchacomusho/n/n9992ff391394)
 - [Planetary Heat and Circulation OS — Japanese README](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat and Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
@@ -884,16 +879,12 @@ The Circular City Concept is a retrofit-oriented implementation model closely re
 
 - [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
 - [Japanese README: 循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
-- [Original NOTE article: 循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 ---
 
 ## Related Early Concept Articles
 
 The following NOTE articles are early Japanese concept sources related to artificial freshwater lakes, rural regeneration, circular infrastructure, desert greening, and food production. They are included as origin materials for the broader Urban–Civilization OS framework, not as peer-reviewed evidence.
-
-- [Proposal for using abandoned villages and depopulated rural areas: creating large artificial freshwater lakes and freshwater aquaculture systems](https://note.com/inchacomusho/n/n5c572fe1695f)
-- [Initial concept: desert greening, food production, population growth, refugee issues, and new habitable environments](https://note.com/inchacomusho/n/n0ce549cb6fa3)
 
 ---
 
@@ -920,17 +911,11 @@ Urban OS, Civilization OS, circular city, regenerative city, nature-integrated i
 
 リンク
 
-都市・文明OSとは何か  
-https://note.com/inchacomusho/n/ne7ebce3dcf78
-
 都市・文明OS  
 https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md
 
 Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated  
 https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities
-
-自然・微生物OSとは何か  
-https://note.com/inchacomusho/n/n0f08276bd638
 
 自然・微生物OS  
 https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md

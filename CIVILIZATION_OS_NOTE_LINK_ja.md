@@ -1,9 +1,3 @@
-# 文明OS NOTE記事リンク
-
-## 文明OSとは──思想が文明の方向性を決める
-
-- [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
-
 ---
 
 ## このリポジトリとの関係
